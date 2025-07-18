@@ -74,7 +74,7 @@ function sendAttendance(name, email, phone, lat, lng) {
 //   const baseURL = 'https://script.google.com/macros/s/AKfycbwqNfX8-oZwuHvhcQL33ZIU-E-5DPkCtJ6z1tZ85haOmVwvF9gHOYnGd7GSK984tSlF/exec';
   // const baseURL = "https://script.google.com/macros/s/AKfycbxh0UG0FU0d0_sBVL6lSywscSgMREaTeSptgwQGXI5jbTMzHSIfMG2FQzD3dCzbqmEx/exec";
 
-  const baseURL = 'https://script.google.com/macros/s/AKfycbx1v63MZrgXvMIJk8RKM6ezEmONvsQH3T206gRDYyGvwBzmU0CBgv7be4fOgktYoEUr/exec'
+  const baseURL = 'https://script.google.com/macros/s/AKfycbwNrTsq_wTqVgFUsmajYDT03TdaBFLtERNk-ghFMeCuc4iYiaZ4s-TTBHr5Hi02-Aar/exec'
   const params = new URLSearchParams({
     name: name,
     email: email,
